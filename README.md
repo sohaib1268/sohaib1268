@@ -59,6 +59,11 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 
 ---
 
+## Server Achievements (GitHub Trophies)
+<p align="center"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsohaib1268%26theme%3Dtokyonight%26no-bg%3Dtrue%26column%3D4" alt="Trophies" /> </p>
+
+---
+
 ### Contribution Graph
 
 ![snake gif](https://raw.githubusercontent.com/sohaib1268/sohaib1268/output/github-contribution-grid-snake.svg)
