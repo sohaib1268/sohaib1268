@@ -53,7 +53,7 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sohaib1268&theme=tokyonight)
 
