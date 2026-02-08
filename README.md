@@ -53,13 +53,13 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib1268&show_icons=true&theme=tokyonight)
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib1268&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1268&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1268&layout=compact&langs_count=8&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sohaib1268&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohaib1268&theme=tokyonight)
 
 ---
 
