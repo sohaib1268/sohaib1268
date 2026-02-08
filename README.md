@@ -57,10 +57,6 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sohaib1268&theme=tokyonight)
 
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib1268&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1268&layout=compact&theme=tokyonight)
-
 ---
 
 ### Contribution Graph
