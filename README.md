@@ -53,22 +53,25 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sohaib1268&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sohaib1268&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" 
+     alt="Sohaib Ali GitHub Stats" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sohaib1268&layout=compact&langs_count=8&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1268&layout=compact&langs_count=8&theme=tokyonight" 
+     alt="Top Languages Used by Sohaib Ali" />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaib1268&theme=tokyonight" />
+<img src="https://streak-stats.demolab.io/?user=sohaib1268&theme=tokyonight" 
+     alt="GitHub Streak Stats for Sohaib Ali" />
 
 ---
 
 ### Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/sohaib1268/sohaib1268/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/sohaib1268/sohaib1268/main/output/github-contribution-grid-snake.svg)
 
 ---
 
