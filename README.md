@@ -2,6 +2,7 @@
 <h3 align="center">Backend Software Engineer | Distributed Systems | AI Platforms</h3>
 
 <p align="center">
+  <a href="https://sohaibs-portfolio.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sohaibali38">LinkedIn</a> •
   <a href="mailto:itssohaibalikhan@gmail.com">Email</a>
 </p>
