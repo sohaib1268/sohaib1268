@@ -15,7 +15,7 @@ I'm a **Backend Software Engineer** working on large-scale, **AI-driven automati
 I specialize in building **scalable, fault-tolerant backend systems** that run real-world workflows on real devices.
 
 - Core backend engineer at **Sofy.ai**
-- Java, Spring Boot, AKKA, gRPC, Protocol Buffers
+- Java, Spring Boot, Python, Golang, AKKA, gRPC, Protocol Buffers
 - Azure & AWS distributed systems
 - Ex-game backend engineer (10k+ concurrent players)
 - Automation, execution engines, and element-matching algorithms
@@ -27,7 +27,7 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 ### Tech Stack
 
 **Languages**
-- Java, Go, MERN, C/C++
+- Java, Go, Python, MERN, C/C++
 
 **Backend**
 - Spring Boot, AKKA, gRPC, REST
@@ -73,4 +73,4 @@ I enjoy solving **hard backend problems** involving concurrency, performance, an
 
 ---
 
-*If you like distributed systems, backend architecture, or game engines — we’ll get along.*
+*If you like distributed systems, AI-Enabled Systems, backend architecture, or game engines — we’ll get along.*
